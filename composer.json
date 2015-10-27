@@ -1,5 +1,5 @@
 {
-    "name": "amazon-mws-unofficial/mws-fba",
+    "name": "amazon-mws-unofficial/mws-fulfillment-inbound-shipment",
     "type": "library",
     "license": "Apache License Version 2.0",
     "autoload": {
